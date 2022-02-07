@@ -1,11 +1,26 @@
 ---
-title: "About Us"
+title: "News Coverage"
 weight: 3
 header_menu: true
 ---
 
-![Jane Doe](images/happy-ethnic-woman-sitting-at-table-with-laptop-3769021.jpg)
+<br><br><br>
 
-##### Universities
+##### National Publications
 
-Princeton, Yale, MIT, Stanford, Vanderbilt
+- Washington Post
+- The Guardian
+- Inside Higher Ed
+
+##### Local News
+
+- California
+- Connecticut
+- Massachusetts
+- New Jersey
+- Tennessee
+
+##### Television Coverage  
+
+- Morning Joe?
+- Can remove this section if no TV news
