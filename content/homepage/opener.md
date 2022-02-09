@@ -3,7 +3,9 @@ title: "Who we are"
 weight: 1
 ---
 
-Community members demanding climate justice through fossil fuel divestment at the following universities:
+![Fossil Free Stanford](images/fossilfree5.png)
+
+Partnering with attorneys from the [Climate Defense Project](https://climatedefenseproject.org/), we are students and community members from the following universities demanding divest from fossil fuels to comply with state laws:
 
 - [Yale](https://www.yaleendowmentjustice.org/)
 - [Princeton](https://www.divestprinceton.com/)
@@ -11,4 +13,3 @@ Community members demanding climate justice through fossil fuel divestment at th
 - [Stanford](https://www.fossilfreestanford.org/)
 - [Vanderbilt](https://divestvanderbilt.com/)
  
-![Fossil Free Stanford](images/stanford.jpg)
