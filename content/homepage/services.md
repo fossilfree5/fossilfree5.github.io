@@ -11,7 +11,8 @@ On February 16th, student-led campaigns for fossil fuel divestment at Yale Unive
 
 Check out [this page](services) for the full press release.
 
-![Yale Protest](images/yale_foot.PNG)
+![Stanford Protest](images/stanford.jpg)
+*Fossil Free Stanford*
 
 ---
 
@@ -20,3 +21,4 @@ Check out [this page](services) for the full press release.
 Coming soon...
 
 ![Al Gore endorses Vanderbilt Divest](images/gore2.jpg)
+*Dores Divest Vanderbilt*
