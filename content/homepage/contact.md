@@ -11,3 +11,6 @@ header_menu: true
 {{<icon class="fa fa-instagram">}}&nbsp;[Follow us on Instagram](https://www.instagram.com/fossilfree5/)
 
 Please send all interview inquiries to the email above.
+
+![Princeton Students protest](images/princeton2.jpeg)
+*Divest Princeton*

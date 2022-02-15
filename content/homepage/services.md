@@ -11,14 +11,14 @@ On February 16th, student-led campaigns for fossil fuel divestment at Yale Unive
 
 Check out [this page](services) for the full press release.
 
-![Stanford Protest](images/stanford.jpg)
-*Fossil Free Stanford*
+![Yale storms the field](images/yale_foot.PNG)
+*Yale Endowment Justice Coalition*
 
 ---
 
-### Updates
+### Climate Defense Project
 
-Coming soon...
+The climate movement needs climate lawyers.  Climate Defense Project fills a gap in the legal landscape by supporting front-line activists, advancing innovative arguments, and connecting attorneys, experts, and community members.  CDP’s three co-founders are graduates of Harvard Law School, where they brought the first fossil fuel divestment lawsuit, Harvard Climate Justice Coalition v. President and Fellows of Harvard College.  Since graduating, they have continued to fight for a stable climate for present and future generations.
 
 ![Al Gore endorses Vanderbilt Divest](images/gore2.jpg)
 *Dores Divest Vanderbilt*

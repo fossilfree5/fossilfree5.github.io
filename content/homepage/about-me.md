@@ -10,6 +10,8 @@ header_menu: true
 
 - Washington Post
 - The Guardian
+- Reuters
+- Grist
 - Inside Higher Ed
 
 ##### Local News
@@ -22,5 +24,7 @@ header_menu: true
 
 ##### Television Coverage  
 
-- Morning Joe?
-- Can remove this section if no TV news
+- Morning Joe
+
+![MIT students protest](images/mit2.JPG)
+*MIT Divest*

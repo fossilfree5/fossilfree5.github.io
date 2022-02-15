@@ -13,3 +13,5 @@ Partnering with attorneys from the [Climate Defense Project](https://climatedefe
 - [Stanford](https://www.fossilfreestanford.org/)
 - [Vanderbilt](https://divestvanderbilt.com/)
  
+![Stanford Protest](images/stanford.jpg)
+*Fossil Free Stanford*
