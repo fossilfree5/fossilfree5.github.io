@@ -20,7 +20,7 @@ The five schools’ endowments collectively represent over $155 billion in asset
 “The legal standards guiding fiduciary conduct are actually quite clear, but they’ve been underenforced. We’re hopeful that attorneys general will take this evidence and hold endowment managers to account when they profit off of immoral business activities,” said CDP Staff Attorney Ted Hamilton.
 
 Visit [fossilfree5.org](fossilfree5.org) or @fossilfree5 on [Instagram](https://www.instagram.com/fossilfree5/) and [Twitter](https://twitter.com/FossilFree5) to learn more about the campaigns.
-
+ 
 ---
 ## Contact(s)
 
@@ -39,4 +39,11 @@ Stanford: Miriam Wallstrom ‘23 is a junior at Stanford studying Political Scie
 Vanderbilt: Miguel Moravec is a second year PhD student in Civil and Environmental Engineering at Vanderbilt University. He is the co-founder of the [Dores Divest](https://divestvanderbilt.com/) campaign. doresdivest@gmail.com +1 (410)-991-2145
 
 ---
+## Full Complaints
+
+- [Yale](https://climatedefenseproject.org/wp-content/uploads/2022/02/Yale-Complaint.pdf)
+- [Princeton](https://climatedefenseproject.org/wp-content/uploads/2022/02/Princeton-Complaint.pdf)
+- [MIT](https://climatedefenseproject.org/wp-content/uploads/2022/02/MIT-Complaint.pdf)
+- [Stanford](https://climatedefenseproject.org/wp-content/uploads/2022/02/Stanford-Complaint.pdf)
+- [Vanderbilt](https://climatedefenseproject.org/wp-content/uploads/2022/02/Vanderbilt-Complaint.pdf)
 
