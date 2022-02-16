@@ -13,5 +13,7 @@ Partnering with attorneys from the [Climate Defense Project](https://climatedefe
 - [Stanford](https://climatedefenseproject.org/wp-content/uploads/2022/02/Stanford-Complaint.pdf)
 - [Vanderbilt](https://climatedefenseproject.org/wp-content/uploads/2022/02/Vanderbilt-Complaint.pdf)
  
+Add your name to our complaint! [Sign here.](https://forms.gle/E8oKqetZAaHsvYwE7) 
+ 
 ![Stanford Protest](images/stanford.jpg)
 [*Fossil Free Stanford*](https://www.gofossilfreestanford.org/the-project)
