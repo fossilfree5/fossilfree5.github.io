@@ -13,4 +13,4 @@ header_menu: true
 Please send all interview inquiries to the email above.
 
 ![Princeton Students protest](images/princeton2.jpeg)
-*Divest Princeton*
+[*Divest Princeton*](https://www.divestprinceton.com/)

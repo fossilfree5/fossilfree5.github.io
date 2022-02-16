@@ -3,7 +3,7 @@ title: "Who we are"
 weight: 1
 ---
 
-![Fossil Free Stanford](images/fossilfree5.png)
+![Fossil Free Five](images/divest_fff.png)
 
 Partnering with attorneys from the [Climate Defense Project](https://climatedefenseproject.org/), we are students and community members from the following universities demanding divestment from fossil fuels to comply with state laws:
 
@@ -14,4 +14,4 @@ Partnering with attorneys from the [Climate Defense Project](https://climatedefe
 - [Vanderbilt](https://divestvanderbilt.com/)
  
 ![Stanford Protest](images/stanford.jpg)
-*Fossil Free Stanford*
+[*Fossil Free Stanford*](https://www.gofossilfreestanford.org/the-project)
