@@ -8,7 +8,7 @@ header_menu: true
 
 ##### National Publications
 
-- Washington Post
+- [Washington Post](https://www.washingtonpost.com/education/2022/02/16/college-fossil-fuel-divest-legal-action/)
 <!-- - The Guardian
  - Reuters
  - Grist
