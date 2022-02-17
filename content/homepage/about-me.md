@@ -15,7 +15,7 @@ header_menu: true
 - [Grist](https://grist.org/protest/the-campus-divestment-movement-has-a-sophisticated-new-legal-strategy/)
 - [CommonDreams](https://www.commondreams.org/news/2022/02/16/students-top-universities-push-legal-imperative-fossil-fuel-divestment)
 - [EcoWatch](https://www.ecowatch.com/universities-fossil-fuel-divestment-students-legal-complaint.html)
-- [Bizjounrals](https://www.bizjournals.com/bizjournals/news/2022/02/17/college-climate-change-investments.html)
+- [Bizjournals](https://www.bizjournals.com/bizjournals/news/2022/02/17/college-climate-change-investments.html)
 - [Energy News Network](https://energynews.us/digests/slow-divestment-pace-leads-northeast-students-to-file-legal-complaints/)
 
 
