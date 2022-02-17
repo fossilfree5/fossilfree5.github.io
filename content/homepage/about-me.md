@@ -27,7 +27,8 @@ header_menu: true
 - [Stanford Daily](https://stanforddaily.com/2022/02/16/climate-defense-project-and-fossil-free-stanford-file-legal-complaint-against-stanford/)
 - [Yale Daily News](https://yaledailynews.com/blog/2022/02/16/student-activists-allege-yales-fossil-fuel-investments-violate-state-law/)
 - [The Daily Princetonian](https://www.dailyprincetonian.com/article/2022/02/divest-legal-complaint-princeton-university-trustees-stanford-mit-yale-vanderbilt-fossil-fuels-new-jersey-attorney-general)
-
+- [The Tech](https://thetech.com/2022/02/17/divestment-legal-complaint)
+- [The Mercury News](https://www.mercurynews.com/2022/02/16/stanford-students-file-complaint-against-university-over-fossil-fuel-investments-joining-other-top-universities/)
 
 ##### Op-Eds 
 
