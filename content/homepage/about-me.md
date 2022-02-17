@@ -12,7 +12,9 @@ header_menu: true
 - [Guardian](https://www.theguardian.com/environment/2022/feb/16/us-universities-fossil-fuel-divestment-students-legal-complaint)
 - [PoliticoPro](https://l.messenger.com/l.php?u=https%3A%2F%2Fsubscriber.politicopro.com%2Farticle%2F2022%2F02%2Factivists-file-complaints-against-yale-stanford-mit-over-fossil-fuel-investments-00009366&h=AT3czDs-9RbROHAKiSw49nKvdnSjA_Qdo9rd1oLO_P6HDubnK0G9_gDqqeTVdh0VChIO6cyZj0pzHs4bAd9JTemG8TiyYx1RfGDBIGxNsy1PR7VQtccKUCBBbaA4HldiKMg)
 - [Reuters](https://www.reuters.com/legal/litigation/students-yale-other-top-schools-ask-ags-probe-fossil-fuel-investments-2022-02-16/)
+- [Grist](https://grist.org/protest/the-campus-divestment-movement-has-a-sophisticated-new-legal-strategy/)
 - [CommonDreams](https://www.commondreams.org/news/2022/02/16/students-top-universities-push-legal-imperative-fossil-fuel-divestment)
+- [EcoWatch](https://www.ecowatch.com/universities-fossil-fuel-divestment-students-legal-complaint.html)
 <!-- - The Guardian
  - Reuters
  - Grist
@@ -30,6 +32,7 @@ header_menu: true
 ##### Op-Eds 
 
 - [The Nation](https://www.thenation.com/article/activism/divest-princeton-legal-complaint/)
+- [Mic](https://www.mic.com/impact/yale-princeton-stanford-students-fossil-fuel-divestment)
 <!--
 - Morning Joe
 -->
