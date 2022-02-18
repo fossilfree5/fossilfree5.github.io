@@ -29,6 +29,7 @@ header_menu: true
 - [The Mercury News](https://www.mercurynews.com/2022/02/16/stanford-students-file-complaint-against-university-over-fossil-fuel-investments-joining-other-top-universities/)
 - [Patch](https://patch.com/new-jersey/princeton/divest-princeton-files-legal-complaint-against-princeton-uni)
 - [The Nashville Scene](https://www.nashvillescene.com/news/pithinthewind/vanderbilt-students-use-legal-complaint-to-encourage-fossil-fuel-divestment/article_7e0c3c7a-901d-11ec-b5e7-4b5bc5946eaa.html)
+- [Massachussetts News](https://darik.news/massachusetts/students-from-top-universities-push-for-legal-imperative-of-fossil-fuel-disinvestment/202202509303.html)
 
 ##### Op-Eds 
 
